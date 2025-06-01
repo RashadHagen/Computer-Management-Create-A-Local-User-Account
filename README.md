@@ -125,7 +125,7 @@ This project goes over how to create a local user account in Computer Management
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>NOTE: The fields of the user’s information will go blank. Just Click: Close. The user account has successfully been created. You will not see the newly created user until you Click: Close (bottom picture) (ex: I created the account: danny).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>NOTE: The fields of the user’s information will go blank. Just Click: Close. The user account has successfully been created. You will not see the newly created user until you Click: Close (bottom) (ex: I created the account: danny).</b></span>  
 <br/>
 
 <table>
