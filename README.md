@@ -44,8 +44,8 @@ This project goes over how to create a local user account in Computer Management
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/50P2d5X.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/TaFiFSC.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -58,8 +58,8 @@ This project goes over how to create a local user account in Computer Management
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/nmHBRtN.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/RdmKs35.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -72,8 +72,8 @@ This project goes over how to create a local user account in Computer Management
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/I9VCj0l.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/U7qbNBh.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -86,8 +86,8 @@ This project goes over how to create a local user account in Computer Management
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/ZpvN9KK.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/Up5YIaE.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -100,8 +100,8 @@ This project goes over how to create a local user account in Computer Management
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/6usAyPN.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/BAJTarm.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -112,7 +112,7 @@ This project goes over how to create a local user account in Computer Management
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click (optional): User must change password at next login to select the other two password change options (greyed out). Click (optional): Account is disabled.
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/VWsWONq.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
@@ -120,7 +120,7 @@ This project goes over how to create a local user account in Computer Management
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create.
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/bWuojCL.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
@@ -130,14 +130,14 @@ This project goes over how to create a local user account in Computer Management
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/uTjvxsx.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/zEXfK2Z.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/4P0Irsb.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/aZKt3Du.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/CdLqdzz.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/fNomqKB.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
